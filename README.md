@@ -9,6 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 Run NG G C DIALOG
 
-## Create dialog service for comoon function
+## Create dialog service for common function
 
 Run ng g service dialog
